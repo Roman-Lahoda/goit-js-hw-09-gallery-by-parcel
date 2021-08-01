@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Roman-Lahoda/goit-js-hw-08-gallery/issues"
   },
-  "homepage": "https://github.com/Roman-Lahoda/goit-js-hw-08-gallery#readme",
+  "homepage": "https://github.com/Roman-Lahoda/goit-js-hw-08-gallery",
   "dependencies": {},
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
